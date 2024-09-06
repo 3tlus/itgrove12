@@ -27,7 +27,7 @@ To get started with the Job Board Management Project, ensure you have the follow
 ### Backend Setup (JobBoardService)
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/haphong463/job-board-project && cd job-board-project/JobBoardService
+    git clone https://github.com/3tlus/itgrove12 && cd itgrove12/JobBoardService
     ```
 2. **Configure MySQL Database**: Update the `application.properties` file with your MySQL database credentials:
     ```properties
@@ -44,7 +44,7 @@ To get started with the Job Board Management Project, ensure you have the follow
 ### Web Frontend Setup (JobBoardApp, JobBoardEmployer, JobBoardManagement)
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/haphong463/job-board-project && cd job-board-project/JobBoardApp
+    git clone https://github.com/3tlus/itgrove12 && cd itgrove12/JobBoardApp
     ```
 2. **Install Dependencies**:
     ```bash
@@ -58,7 +58,7 @@ To get started with the Job Board Management Project, ensure you have the follow
 ### Mobile Frontend Setup (jobboardmobile)
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/haphong463/job-board-project && cd job-board-project/jobboardmobile
+    git clone https://github.com/3tlus/itgrove12 && cd itgrove12/jobboardmobile
     ```
 2. **Install Dependencies**:
     ```bash
